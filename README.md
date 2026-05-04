@@ -136,7 +136,7 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 </p>--
 
 <p align="center">
-  <i>Currently seeking software engineering internships and open-source opportunities (GSoC 2026).</i><br/>
-  <i>Always open to collaborating on AI safety, cybersecurity tooling, or robotics projects.</i>
+  <i>Currently seeking software engineering internships and open-source opportunities (GGSoC 2026).</i><br/>
+  <i>Always open to collaborating on SDE, cybersecurity, AI safety roles and projects .</i>
 </p>
 
