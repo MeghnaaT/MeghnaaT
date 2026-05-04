@@ -127,9 +127,9 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghnaaT&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats-blush-pi-82.vercel.app/api?username=MeghnaaT&show_icons=true&theme=tokyonight" height="150"/>
+
+  <img src="https://github-readme-stats-blush-pi-82.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&theme=tokyonight&hide=html,css" height="150"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MeghnaaT&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
