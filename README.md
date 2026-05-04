@@ -132,7 +132,7 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
   <img src="https://github-readme-stats-blush-pi-82.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&theme=tokyonight&hide=html,css" height="150"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MeghnaaT&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=MeghnaaT&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
 </p>--
 
 <p align="center">
