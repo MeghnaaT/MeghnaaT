@@ -127,8 +127,8 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghnaaT&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&hide_border=true" height="150"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=MeghnaaT&show_icons=true&theme=default&hide_border=true" height="150](https://github-readme-stats-blush-pi-82.vercel.app/api?username=MeghnaaT&show_icons=true&theme=tokyonight)"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&hide_border=true" height="150](https://github-readme-stats-blush-pi-82.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&theme=tokyonight)"/>
 </p>
 
 ---
@@ -138,16 +138,3 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
   <i>Always open to collaborating on AI safety, cybersecurity tooling, or robotics projects.</i>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghnaaT&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <i>Currently seeking software engineering internships and open-source opportunities (GGSoC 2026).</i><br/>
-  <i>Always open to collaborating on Software Engineering & Development, cybersecurity tooling or  AI safety.</i>
-</p>
