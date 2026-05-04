@@ -114,7 +114,7 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 | 🛡️ Detect The Deceptive | PyTorch · FastAPI · Docker | 🔄 In Development | — |
 | 🔐 CyberGuard AI | Flask · JavaScript · OSINT | ✅ Complete | — |
 | 📝 PYQ Exam Platform | React · Node.js · MongoDB | ✅ Deployed | [Live ↗](https://exampyqtestplatformv1.vercel.app) |
-| 🚁 UAV Path Planner | Python · A\* · Shapely | ✅ Complete | — |
+| 🚁 UAV Path Planner | Python · TSP · A\* · Shapely | ✅ Complete | — |
 
 ---
 
@@ -127,11 +127,13 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=MeghnaaT&show_icons=true&theme=default&hide_border=true" height="150](https://github-readme-stats-blush-pi-82.vercel.app/api?username=MeghnaaT&show_icons=true&theme=tokyonight)"/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&hide_border=true" height="150](https://github-readme-stats-blush-pi-82.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&theme=tokyonight)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeghnaaT&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaaT&layout=compact&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MeghnaaT&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+</p>--
 
 <p align="center">
   <i>Currently seeking software engineering internships and open-source opportunities (GSoC 2026).</i><br/>
