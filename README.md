@@ -12,17 +12,16 @@
   <a href="mailto:meghnatw24@gmail.com">
     <img src="https://img.shields.io/badge/Email-meghnatw24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-SDE%20%7C%20Cybersecurity%20%7C%20GSoC-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20%7C%20Cybersecurity%20%7C%20GSSoC-brightgreen?style=flat" />
 </p>
 
 ---
 
 ## 💼 Currently
 
-🏢 **Software Engineering & AI Intern @ MPOnline Ltd.** *(Govt. of MP & TCS Joint Venture · May – Sep 2026)*
-Building production React interfaces and real-world AI/ML pipelines under experienced technical mentors.
-🏢 **Software Engineer @ AICTE IDEA LAB, LNCT, Bhopal
-🏢 **Contributor @GirlScript Summer of Code 2026
+🏢 **Software Engineering & AI Intern @ MPOnline Ltd.** *(Govt. of MP & TCS Joint Venture · May – Sep 2026)*  
+🌸 **Open Source Contributor @ GirlScript Summer of Code 2026 (GSSoC)**
+
 ---
 
 ## 🔭 What I'm Building
@@ -30,7 +29,7 @@ Building production React interfaces and real-world AI/ML pipelines under experi
 I work at the intersection of **AI**, **cybersecurity**, and **full-stack systems** — building tools that are technically rigorous and practically useful.
 
 - 🛡️ **[Detect The Deceptive](https://github.com/MeghnaaT/Detect-The-Deceptive)** — Multi-modal deepfake detection platform *(in active development)*
-- 🔐 **[CyberGuard AI](https://github.com/MeghnaaT/CyberGaurd-AI-Powered-Cyber-Security-Command-Center-)** — Full-stack OSINT-based cyber threat intelligence platform · [Live ↗](https://ai-powered-cyber-security-command-center.onrender.com/)
+- 🔐 **[CyberGuard AI](https://github.com/MeghnaaT/CyberGaurd-AI-Powered-Cyber-Security-Command-Center-)** — Full-stack OSINT cyber threat intelligence platform · [Live ↗](https://ai-powered-cyber-security-command-center.onrender.com/)
 - 📝 **[PYQ Exam Platform](https://github.com/MeghnaaT/Exam-PYQ-Test-Platform-Frontend)** — MERN-stack NTA-style exam system · [Live ↗](https://exampyqtestplatformv1.vercel.app)
 - 🚁 **[UAV Coverage Path Planner](https://github.com/MeghnaaT/Path_planning_final)** — Autonomous drone survey system using A\*, TSP & Boustrophedon decomposition
 
@@ -74,7 +73,7 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 | Role | Organisation | Period |
 |---|---|---|
 | 🏢 Software Engineering & AI Intern | MPOnline Ltd. (Govt. MP & TCS) | May 2026 – Sep 2026 |
-| 💻 Front-End Developer Intern | IBM SkillsBuild | Sep – Nov 2025 |
+| 🌸 Open Source Contributor | GirlScript Summer of Code 2026 | May 2026 – Aug 2026 |
 | 🗺️ GIS Intern | Amay Environmental Consultancies | Aug 2025 |
 
 ---
@@ -100,6 +99,6 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 ---
 
 <p align="center">
-  <i>Currently interning at MPOnline Ltd. — building production-grade software for Govt. of Madhya Pradesh.</i><br/>
+  <i>Currently interning at MPOnline Ltd. & contributing to open source via GSSoC 2026.</i><br/>
   <i>Open to collaborating on AI safety, cybersecurity tooling, and open-source projects.</i>
 </p>
