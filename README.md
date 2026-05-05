@@ -88,5 +88,6 @@ I work at the intersection of **AI**, **cybersecurity**, and **full-stack system
 
 <p align="center">
   <i>Currently interning at MPOnline Ltd. as a Software Engineering & AI intern.</i><br/>
+  <i>Currently contributing at GirlScript Summer of Code 2026</i><br/>
   <i>Open to collaborating on SDE, AI safety, cybersecurity tooling, and open-source projects.</i>
 </p>
